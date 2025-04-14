@@ -56,7 +56,4 @@ Use the API Swagger UI to test the prediction endpoint!
 
 ---
 
-## 👨‍💻 Author
-
-Built with ❤️ by Jwalith
 
