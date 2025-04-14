@@ -52,6 +52,7 @@ http://127.0.0.1:8000/docs
 ```
 
 Use the API Swagger UI to test the prediction endpoint!
+![image](https://github.com/user-attachments/assets/2e2a1912-5d56-45f6-b37e-4a855e58682a)
 
 ---
 
@@ -59,6 +60,3 @@ Use the API Swagger UI to test the prediction endpoint!
 
 Built with ❤️ by Jwalith
 
----
-
-# === End of README.md ===
